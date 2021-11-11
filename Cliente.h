@@ -14,6 +14,7 @@ public:
     void setLlegada(int min);
     void setId(std::string i);
     void setTipoEntrada(int entrada);
+    int getLlegada();
     void setIdConcierto(int id);
     bool isRegistrado();
     void toString();

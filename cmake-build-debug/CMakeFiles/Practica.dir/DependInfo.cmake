@@ -8,13 +8,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Practica/Cliente.cpp" "D:/Practica/cmake-build-debug/CMakeFiles/Practica.dir/Cliente.cpp.obj"
-  "D:/Practica/ColaCliente.cpp" "D:/Practica/cmake-build-debug/CMakeFiles/Practica.dir/ColaCliente.cpp.obj"
-  "D:/Practica/Gestor.cpp" "D:/Practica/cmake-build-debug/CMakeFiles/Practica.dir/Gestor.cpp.obj"
-  "D:/Practica/NodoCola.cpp" "D:/Practica/cmake-build-debug/CMakeFiles/Practica.dir/NodoCola.cpp.obj"
-  "D:/Practica/NodoPila.cpp" "D:/Practica/cmake-build-debug/CMakeFiles/Practica.dir/NodoPila.cpp.obj"
-  "D:/Practica/Pila.cpp" "D:/Practica/cmake-build-debug/CMakeFiles/Practica.dir/Pila.cpp.obj"
-  "D:/Practica/main.cpp" "D:/Practica/cmake-build-debug/CMakeFiles/Practica.dir/main.cpp.obj"
+  "D:/Practica/PL1-EEDD/Cliente.cpp" "D:/Practica/PL1-EEDD/cmake-build-debug/CMakeFiles/Practica.dir/Cliente.cpp.obj"
+  "D:/Practica/PL1-EEDD/ColaCliente.cpp" "D:/Practica/PL1-EEDD/cmake-build-debug/CMakeFiles/Practica.dir/ColaCliente.cpp.obj"
+  "D:/Practica/PL1-EEDD/Gestor.cpp" "D:/Practica/PL1-EEDD/cmake-build-debug/CMakeFiles/Practica.dir/Gestor.cpp.obj"
+  "D:/Practica/PL1-EEDD/NodoCola.cpp" "D:/Practica/PL1-EEDD/cmake-build-debug/CMakeFiles/Practica.dir/NodoCola.cpp.obj"
+  "D:/Practica/PL1-EEDD/NodoPila.cpp" "D:/Practica/PL1-EEDD/cmake-build-debug/CMakeFiles/Practica.dir/NodoPila.cpp.obj"
+  "D:/Practica/PL1-EEDD/Pila.cpp" "D:/Practica/PL1-EEDD/cmake-build-debug/CMakeFiles/Practica.dir/Pila.cpp.obj"
+  "D:/Practica/PL1-EEDD/main.cpp" "D:/Practica/PL1-EEDD/cmake-build-debug/CMakeFiles/Practica.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

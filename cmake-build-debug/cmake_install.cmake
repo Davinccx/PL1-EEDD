@@ -1,4 +1,4 @@
-# Install script for directory: D:/Practica
+# Install script for directory: D:/Practica/PL1-EEDD
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Practica/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Practica/PL1-EEDD/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

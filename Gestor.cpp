@@ -64,9 +64,13 @@ list<Cliente> Gestor::generarCliente(int numCliente) {
 
     }
 
+    listaGenerada.sort(Comparador());
+
     return listaGenerada;
 
 }
+
+
 
 list<Cliente> Gestor::generarClienteRegistrado(int numCliente) {
 
@@ -83,13 +87,16 @@ list<Cliente> Gestor::generarClienteRegistrado(int numCliente) {
 
         listaGenerada.push_front(c);
 
-
-
     }
+
+    listaGenerada.sort(Comparador());
+
+
 
     return listaGenerada;
 
 }
+
 
 list<Cliente> Gestor::generarClienteNoRegistrado(int numCliente) {
 
@@ -107,6 +114,9 @@ list<Cliente> Gestor::generarClienteNoRegistrado(int numCliente) {
         listaGenerada.push_front(c);
 
     }
+
+    listaGenerada.sort(Comparador());
+
 
     return listaGenerada;
 

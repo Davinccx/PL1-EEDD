@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Practica
+CMAKE_SOURCE_DIR = D:\Practica\PL1-EEDD
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Practica\cmake-build-debug
+CMAKE_BINARY_DIR = D:\Practica\PL1-EEDD\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Practica.dir/depend.make
@@ -67,94 +67,94 @@ include CMakeFiles/Practica.dir/flags.make
 
 CMakeFiles/Practica.dir/main.cpp.obj: CMakeFiles/Practica.dir/flags.make
 CMakeFiles/Practica.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Practica.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\main.cpp.obj -c D:\Practica\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\PL1-EEDD\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Practica.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\main.cpp.obj -c D:\Practica\PL1-EEDD\main.cpp
 
 CMakeFiles/Practica.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Practica.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\main.cpp > CMakeFiles\Practica.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\PL1-EEDD\main.cpp > CMakeFiles\Practica.dir\main.cpp.i
 
 CMakeFiles/Practica.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Practica.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\main.cpp -o CMakeFiles\Practica.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\PL1-EEDD\main.cpp -o CMakeFiles\Practica.dir\main.cpp.s
 
 CMakeFiles/Practica.dir/Cliente.cpp.obj: CMakeFiles/Practica.dir/flags.make
 CMakeFiles/Practica.dir/Cliente.cpp.obj: ../Cliente.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Practica.dir/Cliente.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\Cliente.cpp.obj -c D:\Practica\Cliente.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\PL1-EEDD\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Practica.dir/Cliente.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\Cliente.cpp.obj -c D:\Practica\PL1-EEDD\Cliente.cpp
 
 CMakeFiles/Practica.dir/Cliente.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Practica.dir/Cliente.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\Cliente.cpp > CMakeFiles\Practica.dir\Cliente.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\PL1-EEDD\Cliente.cpp > CMakeFiles\Practica.dir\Cliente.cpp.i
 
 CMakeFiles/Practica.dir/Cliente.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Practica.dir/Cliente.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\Cliente.cpp -o CMakeFiles\Practica.dir\Cliente.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\PL1-EEDD\Cliente.cpp -o CMakeFiles\Practica.dir\Cliente.cpp.s
 
 CMakeFiles/Practica.dir/Gestor.cpp.obj: CMakeFiles/Practica.dir/flags.make
 CMakeFiles/Practica.dir/Gestor.cpp.obj: ../Gestor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Practica.dir/Gestor.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\Gestor.cpp.obj -c D:\Practica\Gestor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\PL1-EEDD\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Practica.dir/Gestor.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\Gestor.cpp.obj -c D:\Practica\PL1-EEDD\Gestor.cpp
 
 CMakeFiles/Practica.dir/Gestor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Practica.dir/Gestor.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\Gestor.cpp > CMakeFiles\Practica.dir\Gestor.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\PL1-EEDD\Gestor.cpp > CMakeFiles\Practica.dir\Gestor.cpp.i
 
 CMakeFiles/Practica.dir/Gestor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Practica.dir/Gestor.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\Gestor.cpp -o CMakeFiles\Practica.dir\Gestor.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\PL1-EEDD\Gestor.cpp -o CMakeFiles\Practica.dir\Gestor.cpp.s
 
 CMakeFiles/Practica.dir/NodoCola.cpp.obj: CMakeFiles/Practica.dir/flags.make
 CMakeFiles/Practica.dir/NodoCola.cpp.obj: ../NodoCola.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Practica.dir/NodoCola.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\NodoCola.cpp.obj -c D:\Practica\NodoCola.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\PL1-EEDD\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Practica.dir/NodoCola.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\NodoCola.cpp.obj -c D:\Practica\PL1-EEDD\NodoCola.cpp
 
 CMakeFiles/Practica.dir/NodoCola.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Practica.dir/NodoCola.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\NodoCola.cpp > CMakeFiles\Practica.dir\NodoCola.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\PL1-EEDD\NodoCola.cpp > CMakeFiles\Practica.dir\NodoCola.cpp.i
 
 CMakeFiles/Practica.dir/NodoCola.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Practica.dir/NodoCola.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\NodoCola.cpp -o CMakeFiles\Practica.dir\NodoCola.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\PL1-EEDD\NodoCola.cpp -o CMakeFiles\Practica.dir\NodoCola.cpp.s
 
 CMakeFiles/Practica.dir/ColaCliente.cpp.obj: CMakeFiles/Practica.dir/flags.make
 CMakeFiles/Practica.dir/ColaCliente.cpp.obj: ../ColaCliente.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Practica.dir/ColaCliente.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\ColaCliente.cpp.obj -c D:\Practica\ColaCliente.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\PL1-EEDD\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Practica.dir/ColaCliente.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\ColaCliente.cpp.obj -c D:\Practica\PL1-EEDD\ColaCliente.cpp
 
 CMakeFiles/Practica.dir/ColaCliente.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Practica.dir/ColaCliente.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\ColaCliente.cpp > CMakeFiles\Practica.dir\ColaCliente.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\PL1-EEDD\ColaCliente.cpp > CMakeFiles\Practica.dir\ColaCliente.cpp.i
 
 CMakeFiles/Practica.dir/ColaCliente.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Practica.dir/ColaCliente.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\ColaCliente.cpp -o CMakeFiles\Practica.dir\ColaCliente.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\PL1-EEDD\ColaCliente.cpp -o CMakeFiles\Practica.dir\ColaCliente.cpp.s
 
 CMakeFiles/Practica.dir/NodoPila.cpp.obj: CMakeFiles/Practica.dir/flags.make
 CMakeFiles/Practica.dir/NodoPila.cpp.obj: ../NodoPila.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Practica.dir/NodoPila.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\NodoPila.cpp.obj -c D:\Practica\NodoPila.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\PL1-EEDD\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Practica.dir/NodoPila.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\NodoPila.cpp.obj -c D:\Practica\PL1-EEDD\NodoPila.cpp
 
 CMakeFiles/Practica.dir/NodoPila.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Practica.dir/NodoPila.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\NodoPila.cpp > CMakeFiles\Practica.dir\NodoPila.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\PL1-EEDD\NodoPila.cpp > CMakeFiles\Practica.dir\NodoPila.cpp.i
 
 CMakeFiles/Practica.dir/NodoPila.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Practica.dir/NodoPila.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\NodoPila.cpp -o CMakeFiles\Practica.dir\NodoPila.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\PL1-EEDD\NodoPila.cpp -o CMakeFiles\Practica.dir\NodoPila.cpp.s
 
 CMakeFiles/Practica.dir/Pila.cpp.obj: CMakeFiles/Practica.dir/flags.make
 CMakeFiles/Practica.dir/Pila.cpp.obj: ../Pila.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Practica.dir/Pila.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\Pila.cpp.obj -c D:\Practica\Pila.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Practica\PL1-EEDD\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Practica.dir/Pila.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Practica.dir\Pila.cpp.obj -c D:\Practica\PL1-EEDD\Pila.cpp
 
 CMakeFiles/Practica.dir/Pila.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Practica.dir/Pila.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\Pila.cpp > CMakeFiles\Practica.dir\Pila.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Practica\PL1-EEDD\Pila.cpp > CMakeFiles\Practica.dir\Pila.cpp.i
 
 CMakeFiles/Practica.dir/Pila.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Practica.dir/Pila.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\Pila.cpp -o CMakeFiles\Practica.dir\Pila.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Practica\PL1-EEDD\Pila.cpp -o CMakeFiles\Practica.dir\Pila.cpp.s
 
 # Object files for target Practica
 Practica_OBJECTS = \
@@ -180,7 +180,7 @@ Practica.exe: CMakeFiles/Practica.dir/build.make
 Practica.exe: CMakeFiles/Practica.dir/linklibs.rsp
 Practica.exe: CMakeFiles/Practica.dir/objects1.rsp
 Practica.exe: CMakeFiles/Practica.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Practica\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Practica.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Practica\PL1-EEDD\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Practica.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Practica.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -192,6 +192,6 @@ CMakeFiles/Practica.dir/clean:
 .PHONY : CMakeFiles/Practica.dir/clean
 
 CMakeFiles/Practica.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Practica D:\Practica D:\Practica\cmake-build-debug D:\Practica\cmake-build-debug D:\Practica\cmake-build-debug\CMakeFiles\Practica.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Practica\PL1-EEDD D:\Practica\PL1-EEDD D:\Practica\PL1-EEDD\cmake-build-debug D:\Practica\PL1-EEDD\cmake-build-debug D:\Practica\PL1-EEDD\cmake-build-debug\CMakeFiles\Practica.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Practica.dir/depend
 

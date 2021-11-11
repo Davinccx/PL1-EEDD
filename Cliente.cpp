@@ -49,6 +49,10 @@ bool Cliente::isRegistrado() {
     }
 
 }
+int Cliente::getLlegada() {
+
+    return llegada;
+}
 
 void  Cliente::toString() {
 

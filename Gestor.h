@@ -17,6 +17,18 @@ public:
     string generarDNI();
     void menu();
 private:
+    struct  Comparador{
+
+
+        bool operator()(Cliente & c1,Cliente & c2)
+        {
+
+            return c1.getLlegada()<c2.getLlegada();
+
+        }
+
+
+    };
 
 };
 

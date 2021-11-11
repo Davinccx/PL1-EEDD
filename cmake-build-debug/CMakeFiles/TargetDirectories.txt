@@ -1,3 +1,3 @@
-D:/Practica/cmake-build-debug/CMakeFiles/Practica.dir
-D:/Practica/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Practica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Practica/PL1-EEDD/cmake-build-debug/CMakeFiles/Practica.dir
+D:/Practica/PL1-EEDD/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Practica/PL1-EEDD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
