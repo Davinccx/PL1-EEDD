@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1636717158 source:c:\users\david\desktop\universidad\estructura de datos\practica1\main.cpp
+	"Gestor.h"
+
+1636717117 c:\users\david\desktop\universidad\estructura de datos\practica1\include\gestor.h
+	"Cliente.h"
+	<list>
+	<iostream>
+
+1636716890 c:\users\david\desktop\universidad\estructura de datos\practica1\include\cliente.h
+	<iostream>
+	<string.h>
+
+1636716888 source:c:\users\david\desktop\universidad\estructura de datos\practica1\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1636717033 source:c:\users\david\desktop\universidad\estructura de datos\practica1\src\colacliente.cpp
+	"ColaCliente.h"
+	"iostream"
+
+1636717012 c:\users\david\desktop\universidad\estructura de datos\practica1\include\colacliente.h
+	"NodoCola.h"
+	"Cliente.h"
+
+1636716931 c:\users\david\desktop\universidad\estructura de datos\practica1\include\nodocola.h
+	<iostream>
+	"Cliente.h"
+
+1636716941 source:c:\users\david\desktop\universidad\estructura de datos\practica1\src\nodocola.cpp
+	"NodoCola.h"
+
+1636716989 source:c:\users\david\desktop\universidad\estructura de datos\practica1\src\nodopila.cpp
+	"NodoPila.h"
+
+1636716980 c:\users\david\desktop\universidad\estructura de datos\practica1\include\nodopila.h
+	<iostream>
+	"Cliente.h"
+
+1636717084 source:c:\users\david\desktop\universidad\estructura de datos\practica1\src\pila.cpp
+	"Pila.h"
+	<iostream>
+
+1636717061 c:\users\david\desktop\universidad\estructura de datos\practica1\include\pila.h
+	"NodoPila.h"
+
+1636717403 source:c:\users\david\desktop\universidad\estructura de datos\practica1\src\gestor.cpp
+	"Gestor.h"
+	<iostream>
+	<stdlib.h>
+	<list>
+	<iterator>
+	"Pila.h"
+	"ColaCliente.h"
+
